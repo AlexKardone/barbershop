@@ -1,0 +1,15 @@
+{
+   "folders":
+   [
+      {
+         "path": "/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop"
+      }
+   ],
+   "settings": {
+      "sublime-view-in-browser": {
+         "baseUrl": "http://localhost/barbershop",
+         "basePath": "/Users/alexandermatskevich/Yandex.Disk-alex-kardone.localized/sites/barbershop"
+      }
+   }
+   
+}
